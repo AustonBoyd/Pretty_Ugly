@@ -26,8 +26,11 @@ body{
     padding-left: 10px;
     padding-right: 10px;
     margin: 0 auto;
+    
 }
-
+.spacer{
+    width: 11%;
+}
 .bar{
     background-color: #364652;
     height: 5em;
@@ -35,10 +38,7 @@ body{
 
 .logo>h1{
     color:#AEA4AD;
-}
-.logo-spacer{
-    width: 25px;
-    flex-grow: 1;
+    
 }
 
 .register-container{
