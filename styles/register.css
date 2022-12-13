@@ -1,0 +1,92 @@
+
+*{
+    /* border-radius: 2px;
+    border-color: blue;
+    border-style: solid; */
+}
+
+body{
+    background-color: #18191B;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.container{
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.logo-div{
+    display: flex;
+    background-color: #AEA4AD;
+   
+}
+
+.logo{
+    background-color: #18191B;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 0 auto;
+    
+}
+.spacer{
+    width: 11%;
+}
+.bar{
+    background-color: #364652;
+    height: 5em;
+}
+
+.logo>h1{
+    color:#AEA4AD;
+    
+}
+
+.register-container{
+    background-color: #364652;
+    margin: 10%;
+    flex-grow: 6;
+    text-align: center;    
+}
+
+.register{
+   color: #FFEFBD;
+}
+
+.img-div{
+    background-color: bisque;
+    width: 2em;
+    flex-grow: 2;
+}
+
+.lower-container{
+    display: flex;
+    height: 90%;
+}
+
+form{
+    margin-top: 5em;
+   
+}
+
+input{
+    
+    font-size:2em; 
+    padding:.3em;
+  
+    margin:.6em auto 0;
+    position:relative; 
+    top:50%; 
+    display:block;
+    box-shadow:.05em .05em .1em rgba(50,50,50,.08) inset;
+    width:25.15em;
+}
+
+button{
+    width:25.15em;
+    font-weight: 400;
+    margin:.6em auto 0;
+    font-size:2em; 
+    padding:.3em;
+    color: #FFEFBD;
+    background-color: #AEA4AD;
+}
