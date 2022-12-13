@@ -77,10 +77,8 @@ input{
     position:relative; 
     top:50%; 
     display:block;
-    /* border-radius:.2em;border:1px solid #ddd; */
     box-shadow:.05em .05em .1em rgba(50,50,50,.08) inset;
     width:25.15em;
-    position:relative;
 }
 
 button{
@@ -89,9 +87,6 @@ button{
     margin:.6em auto 0;
     font-size:2em; 
     padding:.3em;
-    /* font-size: x-large; */
-    /* padding-top: 8px;
-    margin-bottom: 20px; */
     color: #FFEFBD;
     background-color: #AEA4AD;
 }
